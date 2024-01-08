@@ -114,7 +114,7 @@ In this Project Nav Bar contains "Stay Connected," "Education," "Community," "Ab
 
 - Detailed folder structure for project organization.
 
-![Screenshot (114)](https://github.com/MONIKANAMALA/git-tuts/assets/104424662/7fe2bf9b-58d1-497b-96b5-1828d717eae3)
+![Screenshot (116)](https://github.com/RCTS-K-Hub/Dec_Team_02/assets/104424662/9eb79ae4-5d9e-459a-919a-76f264d69e84)
 
 #### Main Page Implementation
 
