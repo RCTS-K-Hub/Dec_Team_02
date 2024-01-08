@@ -4,7 +4,6 @@
 
 ODYSSEY is a website dedicated to space exploration and enthusiasts, offering resources such as news articles, educational materials, and a community forum. The website is designed to be user-friendly, providing a wealth of information about space science and technology. The project includes a navigation bar, footer, and various space-related sections.
 
-![Screenshot (107)](https://github.com/MONIKANAMALA/git-tuts/assets/104424662/9debcd0e-d623-4ac5-b82a-ae19debd01c7)
 
 ### Purpose and Objectives
 
@@ -42,7 +41,7 @@ This project is developed based on the figma file, including footer, header, and
 - **CSS:** Styling web pages for presentation and layout.
 - **Material-UI (MUI):** React UI framework following Google's Material Design principles.
 
-![technologies](https://github.com/MONIKANAMALA/git-tuts/assets/104424662/4fcc6789-14ee-4544-8016-1afd5660237d)
+
 ### User Interface (UI) Design
 
 1. **User-Centric Design:**
@@ -82,7 +81,7 @@ In this Project Nav Bar contains "Stay Connected," "Education," "Community," "Ab
 - Each card includes a headline, a brief summary of the article, and a link to the full article.
 - Designed to be visually appealing and to make it easy for users to scan the news headlines.
 
-![Screenshot (111)](https://github.com/MONIKANAMALA/git-tuts/assets/104424662/d4d75200-4016-43b9-9766-50d40ea40a3b)
+
 
 
 #### Font & Content:
@@ -91,14 +90,14 @@ In this Project Nav Bar contains "Stay Connected," "Education," "Community," "Ab
 - The font size is large enough to be easy to read but not so large that it makes the page look cluttered.
 - Content is written in a clear and concise style that is easy to understand.
 
-![Screenshot (112)](https://github.com/MONIKANAMALA/git-tuts/assets/104424662/ca20a3e6-432f-4891-9dae-9db6529237ae)
+
 #### Community & Footer:
 
 - The community section is located at the bottom of the page and includes a forum where users can discuss space exploration and space technology.
 - The forum is divided into different categories, such as astronomy, astrophysics, and space exploration.
 - The footer includes links to the ODYSSEY social media pages, as well as a copyright notice and a privacy policy.
 
-![Screenshot (113)](https://github.com/MONIKANAMALA/git-tuts/assets/104424662/2884fe08-f10c-4b53-b928-60dbf1fc470b)
+
 
 ### Responsive Design
 
@@ -114,7 +113,8 @@ In this Project Nav Bar contains "Stay Connected," "Education," "Community," "Ab
 
 - Detailed folder structure for project organization.
 
-![Screenshot (116)](https://github.com/RCTS-K-Hub/Dec_Team_02/assets/104424662/9eb79ae4-5d9e-459a-919a-76f264d69e84)
+![Screenshot (81)](https://github.com/RCTS-K-Hub/Dec_Team_02/assets/94100742/42ddb721-7a6f-44f9-85a3-71ce8f669278)
+
 
 #### Main Page Implementation
 
